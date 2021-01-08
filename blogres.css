@@ -160,5 +160,9 @@ form {
   header nav li {
     display: block;
   }
+  label, button, input {
+    width: 40%;
+    display: inline-block;
+  }
 }
 /*# sourceMappingURL=blogres.css.map */
